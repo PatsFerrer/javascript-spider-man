@@ -18,4 +18,7 @@
 .gallery ul li a img {
     border: 6px solid white;
     border-radius: 15px;
+    width: 360px;
+    height: 200px;
+    object-fit: cover;
 }
